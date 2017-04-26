@@ -1,0 +1,12 @@
+D:\Assignments\windowsForms\Login\Login\bin\Debug\Login.exe.config
+D:\Assignments\windowsForms\Login\Login\bin\Debug\Login.exe
+D:\Assignments\windowsForms\Login\Login\bin\Debug\Login.pdb
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.Form1.resources
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.Registration.resources
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.exe
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.pdb
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.Details.resources
+D:\Assignments\windowsForms\Login\Login\obj\Debug\Login.Page3.resources
