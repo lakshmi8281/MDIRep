@@ -35,7 +35,7 @@ namespace Login
            
             if (re)
             {
-                MessageBox.Show("Registration Successfull,Lakshmi-Junior-CEO");
+                MessageBox.Show("Registration Sooraj 2nd time");
                 ClearAll();
 
 
