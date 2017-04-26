@@ -35,14 +35,14 @@ namespace Login
            
             if (re)
             {
-                MessageBox.Show("Registration Successfull,Lakshmi-Junior-CEO");
+                MessageBox.Show("success");
                 ClearAll();
 
 
             }
             else
             {
-                MessageBox.Show("reg failed");
+                MessageBox.Show("failed");
             }
         }
 
