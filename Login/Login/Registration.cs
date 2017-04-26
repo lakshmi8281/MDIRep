@@ -35,7 +35,7 @@ namespace Login
            
             if (re)
             {
-                MessageBox.Show("reg sucessfull");
+                MessageBox.Show("Registration Successfull,Lakshmi-Junior-CEO");
                 ClearAll();
 
 
