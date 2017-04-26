@@ -35,7 +35,10 @@ namespace Login
            
             if (re)
             {
+
                 MessageBox.Show("success");
+                MessageBox.Show("Registration Sooraj ");
+
                 ClearAll();
 
 
